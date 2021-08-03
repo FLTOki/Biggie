@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "603001163281",
+    "project_id": "biggie-6316a",
+    "storage_bucket": "biggie-6316a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603001163281:android:29e0fe850c9aab62046bb0",
+        "android_client_info": {
+          "package_name": "com.example.biggie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603001163281-cv254il4ltnchrv3kr3v8jptijlqhtpo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUU-KS5lG33eR8OioNK9zvHza7F6WQ7vM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603001163281-cv254il4ltnchrv3kr3v8jptijlqhtpo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
